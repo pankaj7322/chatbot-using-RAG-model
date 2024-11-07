@@ -35,5 +35,6 @@ This project implements a health FAQ chatbot using Qdrant for efficient storage 
     - What are the symptoms of diabetes.?
     - How often should I get a check-up.?
     - What should I do in case of an emergency.?
+      
 ## Contributing
 Contribution are welcome! Please fork the repository and submit a pull request for any improvement of fixes.
